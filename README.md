@@ -8,7 +8,8 @@
 
 
 **Programming & Frameworks:**  
-(https://skillicons.dev/icons?i=python,c,cpp,flask,html5,css3,javascript,php,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,flask,html5,css3,javascript,php,sql)](https://skillicons.dev)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)  
