@@ -5,6 +5,7 @@
   alt="Your GitHub Contributions Chart"
 />
 ## 🧰 Skills
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,php,sql,html,css,js,flask,tableau,powerbi,jupyter,googlecolab)](https://skillicons.dev)
 
 **Programming & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)  
