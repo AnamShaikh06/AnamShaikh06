@@ -17,9 +17,10 @@
 **Databases & Tools:** 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="Power BI" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tableau_Logo.png" alt="Tableau" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Google_Colaboratory_logo.svg" alt="Google Colab" width="40"/>
+
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_Logo.svg" alt="Canva" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
