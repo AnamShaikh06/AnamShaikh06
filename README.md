@@ -15,16 +15,16 @@
 
 
 **Databases & Tools:** 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
-  <img src="https://raw.githubusercontent.com/AnamShaikh06/icon-hosting/main/powerbi.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/AnamShaikh06/icon-hosting/main/canva.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
-</p>
+
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_Logo.svg" alt="Canva" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
+ i wantthis icons to appear side by side
 
 
 **Data & Machine Learning:**  
