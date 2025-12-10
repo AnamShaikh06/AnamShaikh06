@@ -36,9 +36,10 @@
 
 ## 📫 Contact Me
 
-- **Email:** anamashaikh2004@gmail.com  
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/anam-shaikh-44a915269/))  
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/yourusername](https://github.com/AnamShaikh06))
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamashaikh2004@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anam-shaikh-44a915269/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnamShaikh06)
 
 
 
