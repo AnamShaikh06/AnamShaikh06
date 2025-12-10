@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Anam Shaikh
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AnamShaikh06)
 <img
-  src="https://ghchart.rshah.org/yourusername"
+  src="https://ghchart.rshah.org/AnamShaikh06"
   alt="Your GitHub Contributions Chart"
 />
 <!--
