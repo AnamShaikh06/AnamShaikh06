@@ -16,8 +16,9 @@
 
 **Databases & Tools:** 
 <p>
-[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
+  </a>
 
 <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="40" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" />
