@@ -16,17 +16,16 @@
 
 **Databases & Tools:** 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 
   <img src="https://raw.githubusercontent.com/AnamShaikh06/icon-hosting/main/powerbi.png" width="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/AnamShaikh06/icon-hosting/main/canva.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
 </p>
+
 
 **Data & Machine Learning:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
