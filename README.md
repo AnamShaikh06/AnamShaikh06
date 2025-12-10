@@ -1,6 +1,9 @@
 ## Hi there 👋 I am Anam Shaikh
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AnamShaikh06)
-
+<img
+  src="https://ghchart.rshah.org/yourusername"
+  alt="Your GitHub Contributions Chart"
+/>
 <!--
 **AnamShaikh06/AnamShaikh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
