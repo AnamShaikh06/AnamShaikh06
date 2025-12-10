@@ -15,6 +15,7 @@
 
 
 **Databases & Tools:** 
+<p>
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
 
@@ -24,8 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_Logo.svg" alt="Canva" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
- i wantthis icons to appear side by side
-
+</p>
 
 **Data & Machine Learning:**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  
