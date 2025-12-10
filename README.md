@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" width="40" />
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_Logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" />
 </p>
 
