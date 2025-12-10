@@ -15,17 +15,14 @@
 
 
 **Databases & Tools:** 
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,powerbi,tableau,googlecolab,weka,chatgpt,jupyter,canva)](https://skillicons.dev)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)    
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab)  
-![WEKA](https://img.shields.io/badge/WEKA-8E44AD?style=for-the-badge)  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai)  
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-239120?style=for-the-badge&logo=github)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)  
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_logo.svg" alt="Power BI" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tableau_Logo.png" alt="Tableau" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Google_Colaboratory_logo.svg" alt="Google Colab" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_Logo.svg" alt="Canva" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40"/>
 
 
 **Data & Machine Learning:**  
