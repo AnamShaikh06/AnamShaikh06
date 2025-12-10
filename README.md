@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AnamShaikh06)
 
 <!--
 **AnamShaikh06/AnamShaikh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
